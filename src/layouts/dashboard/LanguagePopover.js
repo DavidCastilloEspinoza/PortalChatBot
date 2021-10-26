@@ -9,18 +9,23 @@ import MenuPopover from '../../components/MenuPopover';
 
 const LANGS = [
   {
+    value: 'es',
+    label: 'Español',
+    icon: '/static/icons/ic_flag_es.ico'
+  },
+  {
     value: 'en',
-    label: 'English',
+    label: 'Ingles',
     icon: '/static/icons/ic_flag_en.svg'
   },
   {
     value: 'de',
-    label: 'German',
+    label: 'Aleman',
     icon: '/static/icons/ic_flag_de.svg'
   },
   {
     value: 'fr',
-    label: 'French',
+    label: 'Frances',
     icon: '/static/icons/ic_flag_fr.svg'
   }
 ];

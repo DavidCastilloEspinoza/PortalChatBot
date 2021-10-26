@@ -16,17 +16,17 @@ import account from '../../_mocks_/account';
 
 const MENU_OPTIONS = [
   {
-    label: 'Home',
+    label: 'Inicio',
     icon: homeFill,
     linkTo: '/'
   },
   {
-    label: 'Profile',
+    label: 'Perfil',
     icon: personFill,
     linkTo: '#'
   },
   {
-    label: 'Settings',
+    label: 'Configuracion',
     icon: settings2Fill,
     linkTo: '#'
   }
